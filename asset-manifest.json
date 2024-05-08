@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/kagetora/static/css/main.f855e6bc.css",
+    "main.js": "/kagetora/static/js/main.c4b1653e.js",
+    "static/js/453.cb3cc533.chunk.js": "/kagetora/static/js/453.cb3cc533.chunk.js",
+    "service-worker.js": "/kagetora/service-worker.js",
+    "static/media/logo.svg": "/kagetora/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/kagetora/index.html",
+    "main.f855e6bc.css.map": "/kagetora/static/css/main.f855e6bc.css.map",
+    "main.c4b1653e.js.map": "/kagetora/static/js/main.c4b1653e.js.map",
+    "453.cb3cc533.chunk.js.map": "/kagetora/static/js/453.cb3cc533.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c4b1653e.js"
+  ]
+}
